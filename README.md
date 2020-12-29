@@ -1,6 +1,6 @@
 # Titanic Dataset Data Analysis
 
-<div align="center"><img src="http://thespiritscience.net/wp-content/uploads/2016/06/Titanic-sinking.jpg" width="400" /></div>
+<div align="center"><img src="img/titanic.jpg" width="480" /></div>
 
 **Descripción**
 
