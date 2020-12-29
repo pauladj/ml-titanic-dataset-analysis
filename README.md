@@ -1,5 +1,7 @@
 # Titanic Dataset Data Analysis
 
+<div align="center"><img src="http://thespiritscience.net/wp-content/uploads/2016/06/Titanic-sinking.jpg" width="400" /></div>
+
 **Descripción**
 
 Esta práctica pertenece a la asignatura _Tipología y ciclo de vida de los datos_, perteneciente al Máster de Ciencia de Datos de la Universitat Oberta de Catalunya. Se realiza un análisis de los datos de los pasajeros del Titanic.
